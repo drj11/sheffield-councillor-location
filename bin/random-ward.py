@@ -20,7 +20,7 @@ def rw():
             x = sum(p[0] for p in ps) / len(ps)
             y = sum(p[1] for p in ps) / len(ps)
             point = [x, y]
-            print(feature['properties']['name'], x, y, sep='\t')
+            print(feature['properties']['name'], y, x, sep='\t')
 
 def features(geojson):
     return geojson['features']
