@@ -1,0 +1,2 @@
+#!/bin/sh
+LC_ALL=C sort -t'	' -k 4 data/addr.tsv | LC_ALL=C join -t'	' -1 4 - data/latlon.tsv  | LC_ALL=C sort -t'	' -k 2 | LC_ALL=C join -t'	' -1 2 - data/ward-points.tsv 
