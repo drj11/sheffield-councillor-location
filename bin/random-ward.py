@@ -14,7 +14,7 @@ def rw():
 
     for feature in features(geojson):
         points = coordinates(feature)
-        for i in range(3):
+        for i in range(1):
             # pick 3 points from the feature and average.
             ps = [random.choice(points) for j in range(3)]
             x = sum(p[0] for p in ps) / len(ps)
