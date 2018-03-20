@@ -14,8 +14,12 @@ def main():
               coordinates=[[cells[9], cells[8]], [cells[11], cells[10]]]
             ))
             geojson.append(dict(
-              type="Point",
-              coordinates=[cells[11], cells[10]]
+              type="Feature",
+              properties=dict(name=cells[0]),
+              geometry=dict(
+                type="Point",
+                coordinates=[cells[11], cells[10]]
+              )
             ))
 
     with open("data/geom.geojson", 'w') as out:

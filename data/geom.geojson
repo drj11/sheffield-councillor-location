@@ -13,11 +13,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4956789575451488",
-      "53.32798675028757"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Beauchief & Greenhill"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4956789575451488",
+        "53.32798675028757"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -33,11 +39,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4956789575451488",
-      "53.32798675028757"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Beauchief & Greenhill"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4956789575451488",
+        "53.32798675028757"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -53,11 +65,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4956789575451488",
-      "53.32798675028757"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Beauchief & Greenhill"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4956789575451488",
+        "53.32798675028757"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -73,11 +91,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.3557447654673458",
-      "53.346114936803396"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Beighton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.3557447654673458",
+        "53.346114936803396"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -93,11 +117,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.3557447654673458",
-      "53.346114936803396"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Beighton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.3557447654673458",
+        "53.346114936803396"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -113,11 +143,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.3557447654673458",
-      "53.346114936803396"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Beighton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.3557447654673458",
+        "53.346114936803396"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -133,11 +169,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4259966170935545",
-      "53.34071461020028"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Birley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4259966170935545",
+        "53.34071461020028"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -153,11 +195,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4259966170935545",
-      "53.34071461020028"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Birley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4259966170935545",
+        "53.34071461020028"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -173,11 +221,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4259966170935545",
-      "53.34071461020028"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Birley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4259966170935545",
+        "53.34071461020028"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -193,11 +247,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4734671238091799",
-      "53.4021413099425"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Burngreave"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4734671238091799",
+        "53.4021413099425"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -213,11 +273,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4734671238091799",
-      "53.4021413099425"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Burngreave"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4734671238091799",
+        "53.4021413099425"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -233,11 +299,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4734671238091799",
-      "53.4021413099425"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Burngreave"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4734671238091799",
+        "53.4021413099425"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -253,11 +325,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.5368592343603344",
-      "53.37531466690052"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Crookes & Crosspool"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5368592343603344",
+        "53.37531466690052"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -273,11 +351,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.5368592343603344",
-      "53.37531466690052"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Crookes & Crosspool"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5368592343603344",
+        "53.37531466690052"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -293,11 +377,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.5368592343603344",
-      "53.37531466690052"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Crookes & Crosspool"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5368592343603344",
+        "53.37531466690052"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -313,11 +403,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4182332372655961",
-      "53.39696540915059"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Darnall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4182332372655961",
+        "53.39696540915059"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -333,11 +429,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4182332372655961",
-      "53.39696540915059"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Darnall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4182332372655961",
+        "53.39696540915059"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -353,11 +455,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4182332372655961",
-      "53.39696540915059"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Darnall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4182332372655961",
+        "53.39696540915059"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -373,11 +481,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4578209621332199",
-      "53.35760011393069"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Gleadless Valley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4578209621332199",
+        "53.35760011393069"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -393,11 +507,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4578209621332199",
-      "53.35760011393069"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Gleadless Valley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4578209621332199",
+        "53.35760011393069"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -413,11 +533,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4578209621332199",
-      "53.35760011393069"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Gleadless Valley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4578209621332199",
+        "53.35760011393069"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -433,11 +559,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4387999608054018",
-      "53.37534805400177"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Manor Castle"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4387999608054018",
+        "53.37534805400177"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -453,11 +585,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4387999608054018",
-      "53.37534805400177"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Manor Castle"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4387999608054018",
+        "53.37534805400177"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -473,11 +611,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4387999608054018",
-      "53.37534805400177"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Manor Castle"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4387999608054018",
+        "53.37534805400177"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -493,11 +637,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4473001173774904",
-      "53.36015366897808"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Park & Arbourthorne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4473001173774904",
+        "53.36015366897808"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -513,11 +663,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4473001173774904",
-      "53.36015366897808"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Park & Arbourthorne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4473001173774904",
+        "53.36015366897808"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -533,11 +689,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.4473001173774904",
-      "53.36015366897808"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Park & Arbourthorne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4473001173774904",
+        "53.36015366897808"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -553,11 +715,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.3911316562286151",
-      "53.36293676590975"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Richmond"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.3911316562286151",
+        "53.36293676590975"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -573,11 +741,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.3911316562286151",
-      "53.36293676590975"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Richmond"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.3911316562286151",
+        "53.36293676590975"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -593,11 +767,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.3911316562286151",
-      "53.36293676590975"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Richmond"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.3911316562286151",
+        "53.36293676590975"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -613,11 +793,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.479569433324481",
-      "53.42974425025125"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Southey"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.479569433324481",
+        "53.42974425025125"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -633,11 +819,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.479569433324481",
-      "53.42974425025125"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Southey"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.479569433324481",
+        "53.42974425025125"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -653,11 +845,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.479569433324481",
-      "53.42974425025125"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Southey"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.479569433324481",
+        "53.42974425025125"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -673,11 +871,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.5036630263294617",
-      "53.39154561502909"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Walkley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5036630263294617",
+        "53.39154561502909"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -693,11 +897,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.5036630263294617",
-      "53.39154561502909"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Walkley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5036630263294617",
+        "53.39154561502909"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -713,11 +923,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.5036630263294617",
-      "53.39154561502909"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Walkley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5036630263294617",
+        "53.39154561502909"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -733,11 +949,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.3686838201506086",
-      "53.36005933577231"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Woodhouse"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.3686838201506086",
+        "53.36005933577231"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -753,11 +975,17 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.3686838201506086",
-      "53.36005933577231"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Woodhouse"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.3686838201506086",
+        "53.36005933577231"
+      ]
+    }
   },
   {
     "type": "LineString",
@@ -773,10 +1001,16 @@
     ]
   },
   {
-    "type": "Point",
-    "coordinates": [
-      "-1.3686838201506086",
-      "53.36005933577231"
-    ]
+    "type": "Feature",
+    "properties": {
+      "name": "Woodhouse"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.3686838201506086",
+        "53.36005933577231"
+      ]
+    }
   }
 ]
