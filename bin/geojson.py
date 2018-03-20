@@ -4,17 +4,22 @@ import json
 import sys
 
 def main():
-    lines = []
+    geojson = []
 
     with open("data/joined") as f:
         for row in f:
             cells = row.strip().split('\t')
-            lines.append(dict(
+            geojson.append(dict(
               type="LineString",
               coordinates=[[cells[9], cells[8]], [cells[11], cells[10]]]
             ))
+            geojson.append(dict(
+              type="Point",
+              coordinates=[cells[11], cells[10]]
+            ))
 
-    json.dump(lines, sys.stdout, indent=2)
+    with open("data/geom.geojson", 'w') as out:
+        json.dump(geojson, out, indent=2)
 
 if __name__ == '__main__':
     main()
