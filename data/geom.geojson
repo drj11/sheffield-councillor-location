@@ -237,6 +237,84 @@
     "type": "LineString",
     "coordinates": [
       [
+        "-1.4958348",
+        "53.386572"
+      ],
+      [
+        "-1.5043956861035441",
+        "53.36728008083111"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Broomhill & Sharrow Vale"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5043956861035441",
+        "53.36728008083111"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.5106255",
+        "53.377735"
+      ],
+      [
+        "-1.5043956861035441",
+        "53.36728008083111"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Broomhill & Sharrow Vale"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5043956861035441",
+        "53.36728008083111"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.4502263",
+        "53.399935"
+      ],
+      [
+        "-1.5043956861035441",
+        "53.36728008083111"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Broomhill & Sharrow Vale"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5043956861035441",
+        "53.36728008083111"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
         "-1.4529254",
         "53.402913"
       ],
@@ -308,6 +386,84 @@
       "coordinates": [
         "-1.4734671238091799",
         "53.4021413099425"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.4673903",
+        "53.387608"
+      ],
+      [
+        "-1.4706889306077369",
+        "53.377025653130836"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "City"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4706889306077369",
+        "53.377025653130836"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.4832534",
+        "53.378869"
+      ],
+      [
+        "-1.4706889306077369",
+        "53.377025653130836"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "City"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4706889306077369",
+        "53.377025653130836"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.483709",
+        "53.341172"
+      ],
+      [
+        "-1.4706889306077369",
+        "53.377025653130836"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "City"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4706889306077369",
+        "53.377025653130836"
       ]
     }
   },
@@ -471,6 +627,396 @@
     "type": "LineString",
     "coordinates": [
       [
+        "-1.5429291",
+        "53.328578"
+      ],
+      [
+        "-1.5397959211583923",
+        "53.32254002972882"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Dore & Totley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5397959211583923",
+        "53.32254002972882"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.5227191",
+        "53.368957"
+      ],
+      [
+        "-1.5397959211583923",
+        "53.32254002972882"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Dore & Totley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5397959211583923",
+        "53.32254002972882"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.5266859",
+        "53.326968"
+      ],
+      [
+        "-1.5397959211583923",
+        "53.32254002972882"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Dore & Totley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5397959211583923",
+        "53.32254002972882"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.4745824",
+        "53.465347"
+      ],
+      [
+        "-1.4700937542665609",
+        "53.45628267843379"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "East Ecclesfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4700937542665609",
+        "53.45628267843379"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.4801008",
+        "53.44147"
+      ],
+      [
+        "-1.4700937542665609",
+        "53.45628267843379"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "East Ecclesfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4700937542665609",
+        "53.45628267843379"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.5230457",
+        "53.417776"
+      ],
+      [
+        "-1.4700937542665609",
+        "53.45628267843379"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "East Ecclesfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4700937542665609",
+        "53.45628267843379"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.5033066",
+        "53.368536"
+      ],
+      [
+        "-1.5242538620414205",
+        "53.35095161540766"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Ecclesall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5242538620414205",
+        "53.35095161540766"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.5029908",
+        "53.355636"
+      ],
+      [
+        "-1.5242538620414205",
+        "53.35095161540766"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Ecclesall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5242538620414205",
+        "53.35095161540766"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.3980249",
+        "53.413634"
+      ],
+      [
+        "-1.5242538620414205",
+        "53.35095161540766"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Ecclesall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5242538620414205",
+        "53.35095161540766"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.4617729",
+        "53.401453"
+      ],
+      [
+        "-1.4645670359015106",
+        "53.42842641743934"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Firth Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4645670359015106",
+        "53.42842641743934"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.459794",
+        "53.404509"
+      ],
+      [
+        "-1.4645670359015106",
+        "53.42842641743934"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Firth Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4645670359015106",
+        "53.42842641743934"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.5726519",
+        "53.471913"
+      ],
+      [
+        "-1.4645670359015106",
+        "53.42842641743934"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Firth Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.4645670359015106",
+        "53.42842641743934"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.5456482",
+        "53.363788"
+      ],
+      [
+        "-1.5639641341047337",
+        "53.36307921589856"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Fulwood"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5639641341047337",
+        "53.36307921589856"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.5485222",
+        "53.37196"
+      ],
+      [
+        "-1.5639641341047337",
+        "53.36307921589856"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Fulwood"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5639641341047337",
+        "53.36307921589856"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.5456482",
+        "53.363788"
+      ],
+      [
+        "-1.5639641341047337",
+        "53.36307921589856"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Fulwood"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5639641341047337",
+        "53.36307921589856"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
         "-1.4865432",
         "53.360303"
       ],
@@ -549,6 +1095,162 @@
     "type": "LineString",
     "coordinates": [
       [
+        "-1.4603769",
+        "53.334606"
+      ],
+      [
+        "-1.477384455765592",
+        "53.34553086662806"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Graves Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.477384455765592",
+        "53.34553086662806"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.4573487",
+        "53.37088"
+      ],
+      [
+        "-1.477384455765592",
+        "53.34553086662806"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Graves Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.477384455765592",
+        "53.34553086662806"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.4603769",
+        "53.334606"
+      ],
+      [
+        "-1.477384455765592",
+        "53.34553086662806"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Graves Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.477384455765592",
+        "53.34553086662806"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.5130301",
+        "53.416"
+      ],
+      [
+        "-1.5053862200402481",
+        "53.41182228302446"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Hillsborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5053862200402481",
+        "53.41182228302446"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.4987618",
+        "53.393389"
+      ],
+      [
+        "-1.5053862200402481",
+        "53.41182228302446"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Hillsborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5053862200402481",
+        "53.41182228302446"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.5357674",
+        "53.40739"
+      ],
+      [
+        "-1.5053862200402481",
+        "53.41182228302446"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Hillsborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.5053862200402481",
+        "53.41182228302446"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
         "-1.4492747",
         "53.420065"
       ],
@@ -620,6 +1322,58 @@
       "coordinates": [
         "-1.4387999608054018",
         "53.37534805400177"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.3615321",
+        "53.363979"
+      ],
+      [
+        "-1.3511948107107765",
+        "53.32918429507932"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Mosborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.3511948107107765",
+        "53.32918429507932"
+      ]
+    }
+  },
+  {
+    "type": "LineString",
+    "coordinates": [
+      [
+        "-1.3482296",
+        "53.329714"
+      ],
+      [
+        "-1.3511948107107765",
+        "53.32918429507932"
+      ]
+    ]
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "Mosborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-1.3511948107107765",
+        "53.32918429507932"
       ]
     }
   },
