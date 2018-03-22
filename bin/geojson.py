@@ -20,15 +20,16 @@ def main():
                   type="LineString",
                   coordinates=[home_point, electoral_point]
                 ))
-            else:
-                geojson.append(dict(
-                  type="Feature",
-                  properties=dict(type="home"),
-                  geometry=dict(
-                    type="Point",
-                    coordinates=home_point
-                  )
-                ))
+
+            geojson.append(dict(
+              type="Feature",
+              properties=dict(type="home"),
+              geometry=dict(
+                type="Point",
+                coordinates=home_point
+              )
+            ))
+
             wards[electoral_ward] = dict(
               type="Feature",
               properties=dict(type="ward", name=electoral_ward),
