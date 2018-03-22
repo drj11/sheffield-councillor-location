@@ -12,15 +12,18 @@ def rw():
     with open(File) as gj:
         geojson = json.load(gj)
 
+    out = open("data/ward-points.tsv", 'w')
+
     for feature in features(geojson):
         points = coordinates(feature)
         for i in range(1):
-            # pick 3 points from the feature and average.
-            ps = [random.choice(points) for j in range(3)]
+            # pick 33 points from the feature and average.
+            ps = [random.choice(points) for j in range(33)]
             x = sum(p[0] for p in ps) / len(ps)
             y = sum(p[1] for p in ps) / len(ps)
             point = [x, y]
-            print(feature['properties']['name'], y, x, sep='\t')
+            print(feature['properties']['name'], y, x,
+              sep='\t', file=out)
 
 def features(geojson):
     return geojson['features']
