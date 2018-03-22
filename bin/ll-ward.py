@@ -69,7 +69,7 @@ def join_ward():
     rows = open("data/latlon.tsv")
     next(rows)
 
-    with open("data/ll-ward.tsv", 'w') as out:
+    with open("data/postcode-ward.tsv", 'w') as out:
         for row in rows:
             cells = row.strip().split('\t')
             point = cells[5:7]
