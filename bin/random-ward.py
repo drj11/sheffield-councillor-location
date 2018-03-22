@@ -14,7 +14,9 @@ def rw():
 
     out = open("data/ward-points.tsv", 'w')
 
-    for feature in features(geojson):
+    fs = sorted(features(geojson),
+      key=lambda f:f['properties']['name'])
+    for feature in fs:
         points = coordinates(feature)
         for i in range(1):
             # pick 33 points from the feature and average.
