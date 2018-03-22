@@ -3,4 +3,6 @@ LC_ALL=C export LC_ALL
 sort -t'	' -k 4 data/addr.tsv |
   join -t'	' -1 4 - data/latlon.tsv  |
   sort -t'	' -k 2 |
-  join -t'	' -1 2 - data/ward-points.tsv
+  join -t'	' -1 2 - data/ward-points.tsv |
+  sort -t'	' -k 2 |
+  join -t'	' -1 2 - data/postcode-ward.tsv
