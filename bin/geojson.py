@@ -3,6 +3,7 @@
 import json
 import sys
 
+
 def main():
     geojson = []
 
@@ -22,9 +23,11 @@ def main():
                   coordinates=[home_point, electoral_point]
                 ))
 
+            colour = team_colour(cells[2])
+
             geojson.append(dict(
               type="Feature",
-              properties=dict(type="home"),
+              properties=dict(type="home", colour=colour),
               geometry=dict(
                 type="Point",
                 coordinates=home_point
@@ -45,6 +48,18 @@ def main():
 
     with open("data/geom.geojson", 'w') as out:
         json.dump(geojson, out, indent=2)
+
+
+def team_colour(party):
+    if "Green" in party:
+        return '#086'
+    if "Labour" in party:
+        return '#d00'
+    if "UKIP" in party:
+        return '#b09'
+    if "Liberal" in party:
+        return '#fb3'
+
 
 if __name__ == '__main__':
     main()
