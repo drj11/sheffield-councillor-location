@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-# Draw a list of 3 points at random from each ward.
+# map each postcode (in data/latlon.tsv)
+# to the ward containing it.
+# Producing the file data/postcode-ward.tsv
 
 import itertools
 import json
@@ -67,15 +69,19 @@ def join_ward():
     geojson = load_geojson()
 
     rows = open("data/latlon.tsv")
-    next(rows)
 
     with open("data/postcode-ward.tsv", 'w') as out:
-        for row in rows:
-            cells = row.strip().split('\t')
-            point = cells[5:7]
-            point = (float(point[1]), float(point[0]))
-            feature = which_contains(geojson, point)
-            print(cells[0], feature['properties']['name'], sep='\t', file=out)
+        for i, row in enumerate(rows):
+            try:
+                if i == 0:
+                    continue
+                cells = row.strip().split('\t')
+                point = cells[5:7]
+                point = (float(point[1]), float(point[0]))
+                feature = which_contains(geojson, point)
+                print(cells[0], feature['properties']['name'], sep='\t', file=out)
+            except Exception as exception:
+                print(out.name, row, i, exception, file=sys.stderr)
 
 def main(argv=None):
     if argv is None:
