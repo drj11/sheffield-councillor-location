@@ -1,4 +1,4 @@
-data/geom.geojson: data/joined
+data/geom.geojson: data/joined bin/geojson.py
 	bin/geojson.py
 
 data/joined: data/addr.tsv data/latlon.tsv data/postcode-ward.tsv data/ward-points.tsv

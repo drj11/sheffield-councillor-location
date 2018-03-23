@@ -11,10 +11,11 @@ def main():
     with open("data/joined") as f:
         for row in f:
             cells = row.strip().split('\t')
-            home_ward = cells[12]
+            home_ward = cells[13]
             electoral_ward = cells[1]
-            electoral_point = [cells[11], cells[10]]
-            home_point = [cells[9], cells[8]]
+            i = 9
+            electoral_point = [cells[i+3], cells[i+2]]
+            home_point = [cells[i+1], cells[i]]
             if home_ward != electoral_ward:
                 geojson.append(dict(
                   type="LineString",
