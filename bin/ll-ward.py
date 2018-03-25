@@ -73,7 +73,8 @@ def join_ward():
     with open("data/postcode-ward.tsv", 'w') as out:
         for i, row in enumerate(rows):
             try:
-                if i == 0:
+                if "Postcode" in row:
+                    # Header row
                     continue
                 cells = row.strip().split('\t')
                 point = cells[5:7]
