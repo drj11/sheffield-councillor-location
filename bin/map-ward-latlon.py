@@ -1,32 +1,33 @@
 #!/usr/bin/env python3
-# Compute the centroid of a ward.
-# https://stackoverflow.com/questions/2792443/finding-the-centroid-of-a-polygon#2792459
-# Tehcnically, this is the centroid in Plate Carrée projection.
-
+# Map ward to a latitude/longitude.
+# Ward's centroid is computed and used as the latitude/longitude.
+# Technically, this is the centroid in Plate Carrée projection.
 
 import itertools
 import json
 import random
 import sys
 
-File = "/home/drj/prj/sheffmap/wards.geojson"
+
+GeoFile = "/home/drj/prj/sheffmap/wards.geojson"
+OutputFile = "data/map-ward-latlon.tsv"
 
 def ward_centroid():
-    with open(File) as gj:
+    with open(GeoFile) as gj:
         geojson = json.load(gj)
 
-    out = open("data/ward-points.tsv", 'w')
-
-    fs = sorted(features(geojson),
-      key=lambda f:f['properties']['name'])
-    for feature in fs:
-        points = coordinates(feature)
-        x, y = centroid(points)
-        print(feature['properties']['name'], y, x,
-          sep='\t', file=out)
+    with open(OutputFile, 'w') as out:
+        fs = sorted(features(geojson),
+          key=lambda f:f['properties']['name'])
+        for feature in fs:
+            points = coordinates(feature)
+            x, y = centroid(points)
+            print(feature['properties']['name'], y, x,
+              sep='\t', file=out)
 
 
 def centroid(points):
+    # https://stackoverflow.com/questions/2792443/finding-the-centroid-of-a-polygon#2792459
     area_sum = 0.0
     result_x = 0.0
     result_y = 0.0
