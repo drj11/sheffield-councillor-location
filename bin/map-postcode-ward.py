@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # Map each postcode to the ward containing it.
-# Producing the file data/postcode-ward.tsv
 
 import itertools
 import json
@@ -9,6 +8,7 @@ import sys
 
 GeoFile = "/home/drj/prj/sheffmap/wards.geojson"
 PostcodeFile = "data/map-postcode-latlon.tsv"
+OutputFile = "data/map-postcode-ward.tsv"
 
 def polygon_contains(polygon, point):
     # Winding number in integer quadrants
@@ -70,7 +70,7 @@ def join_ward():
 
     rows = open(PostcodeFile)
 
-    with open("data/postcode-ward.tsv", 'w') as out:
+    with open(OutputFile, 'w') as out:
         for i, row in enumerate(rows):
             try:
                 if "Postcode" in row:

@@ -5,4 +5,4 @@ sort -t'	' -k 5 data/addr.tsv |
   sort -t'	' -k 2 |
   join -t'	' -1 2 - data/ward-points.tsv |
   sort -t'	' -k 2 |
-  join -t'	' -1 2 - data/postcode-ward.tsv
+  join -t'	' -1 2 - data/map-postcode-ward.tsv
