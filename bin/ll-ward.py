@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-# map each postcode (in data/latlon.tsv)
-# to the ward containing it.
+# Map each postcode to the ward containing it.
 # Producing the file data/postcode-ward.tsv
 
 import itertools
@@ -8,7 +7,8 @@ import json
 import random
 import sys
 
-File = "/home/drj/prj/sheffmap/wards.geojson"
+GeoFile = "/home/drj/prj/sheffmap/wards.geojson"
+PostcodeFile = "data/map-postcode-latlon.tsv"
 
 def polygon_contains(polygon, point):
     # Winding number in integer quadrants
@@ -46,7 +46,7 @@ def quadrant(vector):
 
 
 def load_geojson():
-    with open(File) as gj:
+    with open(GeoFile) as gj:
         geojson = json.load(gj)
     return geojson
 
@@ -68,7 +68,7 @@ def coordinates(feature):
 def join_ward():
     geojson = load_geojson()
 
-    rows = open("data/latlon.tsv")
+    rows = open(PostcodeFile)
 
     with open("data/postcode-ward.tsv", 'w') as out:
         for i, row in enumerate(rows):
