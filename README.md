@@ -1,5 +1,9 @@
 # Sheffield councillor location data
 
+Raw and processed data on the location of Sheffield councillor's.
+
+Used to make this map: https://drj11.github.io/sheffield-map/where/
+
 ## Data files
 
 There are two data sources:
