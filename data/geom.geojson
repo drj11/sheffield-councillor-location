@@ -141,7 +141,7 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": null
+      "colour": "#fb3"
     },
     "geometry": {
       "type": "Point",
@@ -481,7 +481,7 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": null
+      "colour": "#fb3"
     },
     "geometry": {
       "type": "Point",
@@ -495,7 +495,7 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": null
+      "colour": "#fb3"
     },
     "geometry": {
       "type": "Point",
