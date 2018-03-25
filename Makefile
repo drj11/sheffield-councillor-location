@@ -1,7 +1,7 @@
 data/geom.geojson: data/joined bin/geojson.py
 	bin/geojson.py
 
-data/joined: bin/join-the-things data/addr.tsv data/map-postcode-latlon.tsv data/map-postcode-ward.tsv data/map-ward-latlon.tsv
+data/joined: bin/join-the-things data/subject.tsv data/map-postcode-latlon.tsv data/map-postcode-ward.tsv data/map-ward-latlon.tsv
 	bin/join-the-things > data/joined
 
 data/map-postcode-ward.tsv: bin/map-postcode-ward.py data/map-postcode-latlon.tsv
