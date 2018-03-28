@@ -1,28 +1,17 @@
 [
   {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4677872",
-        "53.37748"
-      ],
-      [
-        "-1.4443552627796723",
-        "53.36065409058276"
-      ]
-    ]
-  },
-  {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Park & Arbourthorne",
+      "distance": 2.4
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4677872",
-        "53.37748"
+        -1.4677872,
+        53.37748
       ]
     }
   },
@@ -30,13 +19,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Broomhill & Sharrow Vale"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4958348",
-        "53.386572"
+        -1.4958348,
+        53.386572
       ]
     }
   },
@@ -44,13 +34,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Crookes & Crosspool"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5001332",
-        "53.385431"
+        -1.5001332,
+        53.385431
       ]
     }
   },
@@ -58,13 +49,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Fulwood"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5485222",
-        "53.37196"
+        -1.5485222,
+        53.37196
       ]
     }
   },
@@ -72,13 +64,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Fulwood"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5456482",
-        "53.363788"
+        -1.5456482,
+        53.363788
       ]
     }
   },
@@ -86,13 +79,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Fulwood"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5456482",
-        "53.363788"
+        -1.5456482,
+        53.363788
       ]
     }
   },
@@ -100,13 +94,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#086"
+      "colour": "#086",
+      "representing": "Broomhill & Sharrow Vale"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5106255",
-        "53.377735"
+        -1.5106255,
+        53.377735
       ]
     }
   },
@@ -114,94 +109,62 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Crookes & Crosspool"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5256621",
-        "53.377319"
+        -1.5256621,
+        53.377319
       ]
     }
   },
   {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.5227191",
-        "53.368957"
-      ],
-      [
-        "-1.5627496673575711",
-        "53.329409837115264"
-      ]
-    ]
-  },
-  {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Dore & Totley",
+      "distance": 5.1
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5227191",
-        "53.368957"
+        -1.5227191,
+        53.368957
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.5033066",
-        "53.368536"
-      ],
-      [
-        "-1.513939214817742",
-        "53.3514019170402"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Ecclesall",
+      "distance": 2.0
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5033066",
-        "53.368536"
+        -1.5033066,
+        53.368536
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.492249",
-        "53.36697"
-      ],
-      [
-        "-1.4866458473666675",
-        "53.36233359505128"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#086"
+      "colour": "#086",
+      "representing": "Nether Edge & Sharrow",
+      "distance": 0.6
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.492249",
-        "53.36697"
+        -1.492249,
+        53.36697
       ]
     }
   },
@@ -209,94 +172,62 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Ecclesall"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5029908",
-        "53.355636"
+        -1.5029908,
+        53.355636
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4207239",
-        "53.342978"
-      ],
-      [
-        "-1.404506456931545",
-        "53.36097342815871"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Richmond",
+      "distance": 2.3
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4207239",
-        "53.342978"
+        -1.4207239,
+        53.342978
       ]
     }
   },
   {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.3746328",
-        "53.344687"
-      ],
-      [
-        "-1.4061324864063534",
-        "53.34463527349907"
-      ]
-    ]
-  },
-  {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Birley",
+      "distance": 2.1
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3746328",
-        "53.344687"
+        -1.3746328,
+        53.344687
       ]
     }
   },
   {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.3732",
-        "53.342009"
-      ],
-      [
-        "-1.404506456931545",
-        "53.36097342815871"
-      ]
-    ]
-  },
-  {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Richmond",
+      "distance": 3.0
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3732",
-        "53.342009"
+        -1.3732,
+        53.342009
       ]
     }
   },
@@ -304,13 +235,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Birley"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4093901",
-        "53.345789"
+        -1.4093901,
+        53.345789
       ]
     }
   },
@@ -318,148 +250,94 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Woodhouse"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3779969",
-        "53.358142"
+        -1.3779969,
+        53.358142
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.3684151",
-        "53.360897"
-      ],
-      [
-        "-1.355733694345492",
-        "53.3435668216603"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Beighton",
+      "distance": 2.1
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3684151",
-        "53.360897"
+        -1.3684151,
+        53.360897
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.3615321",
-        "53.363979"
-      ],
-      [
-        "-1.358995659877262",
-        "53.32794076995907"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Mosborough",
+      "distance": 4.0
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3615321",
-        "53.363979"
+        -1.3615321,
+        53.363979
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.3914232",
-        "53.372297"
-      ],
-      [
-        "-1.4443552627796723",
-        "53.36065409058276"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Park & Arbourthorne",
+      "distance": 3.7
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3914232",
-        "53.372297"
+        -1.3914232,
+        53.372297
       ]
     }
   },
   {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.3915771",
-        "53.364657"
-      ],
-      [
-        "-1.3719977590776764",
-        "53.36408410739049"
-      ]
-    ]
-  },
-  {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Woodhouse",
+      "distance": 1.3
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3915771",
-        "53.364657"
+        -1.3915771,
+        53.364657
       ]
     }
   },
   {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.3812491",
-        "53.373242"
-      ],
-      [
-        "-1.410098487749069",
-        "53.39727219313776"
-      ]
-    ]
-  },
-  {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Darnall",
+      "distance": 3.3
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3812491",
-        "53.373242"
+        -1.3812491,
+        53.373242
       ]
     }
   },
@@ -467,13 +345,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Woodhouse"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3897116",
-        "53.373223"
+        -1.3897116,
+        53.373223
       ]
     }
   },
@@ -481,13 +360,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Dore & Totley"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5429291",
-        "53.328578"
+        -1.5429291,
+        53.328578
       ]
     }
   },
@@ -495,13 +375,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Dore & Totley"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5266859",
-        "53.326968"
+        -1.5266859,
+        53.326968
       ]
     }
   },
@@ -509,67 +390,46 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Manor Castle"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4485646",
-        "53.373734"
+        -1.4485646,
+        53.373734
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4573487",
-        "53.37088"
-      ],
-      [
-        "-1.4693593130278797",
-        "53.340573295696444"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Graves Park",
+      "distance": 3.5
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4573487",
-        "53.37088"
+        -1.4573487,
+        53.37088
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4528034",
-        "53.381933"
-      ],
-      [
-        "-1.4332018835391565",
-        "53.42442643769367"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Shiregreen & Brightside",
+      "distance": 4.9
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4528034",
-        "53.381933"
+        -1.4528034,
+        53.381933
       ]
     }
   },
@@ -577,40 +437,30 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Beighton"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3460867",
-        "53.347113"
+        -1.3460867,
+        53.347113
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.3618015",
-        "53.325814"
-      ],
-      [
-        "-1.355733694345492",
-        "53.3435668216603"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Beighton",
+      "distance": 2.0
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3618015",
-        "53.325814"
+        -1.3618015,
+        53.325814
       ]
     }
   },
@@ -618,13 +468,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Mosborough"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3513866",
-        "53.336392"
+        -1.3513866,
+        53.336392
       ]
     }
   },
@@ -632,13 +483,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Mosborough"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3482296",
-        "53.329714"
+        -1.3482296,
+        53.329714
       ]
     }
   },
@@ -646,13 +498,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "City"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4832534",
-        "53.378869"
+        -1.4832534,
+        53.378869
       ]
     }
   },
@@ -660,13 +513,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#086"
+      "colour": "#086",
+      "representing": "City"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4673903",
-        "53.387608"
+        -1.4673903,
+        53.387608
       ]
     }
   },
@@ -674,13 +528,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Stannington"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5403268",
-        "53.426796"
+        -1.5403268,
+        53.426796
       ]
     }
   },
@@ -688,13 +543,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "East Ecclesfield"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4745824",
-        "53.465347"
+        -1.4745824,
+        53.465347
       ]
     }
   },
@@ -702,67 +558,46 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#b09"
+      "colour": "#b09",
+      "representing": "West Ecclesfield"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4899258",
-        "53.463319"
+        -1.4899258,
+        53.463319
       ]
     }
   },
   {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4712341",
-        "53.470545"
-      ],
-      [
-        "-1.495020444590787",
-        "53.45728704664914"
-      ]
-    ]
-  },
-  {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "West Ecclesfield",
+      "distance": 2.2
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4712341",
-        "53.470545"
+        -1.4712341,
+        53.470545
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.493427",
-        "53.441231"
-      ],
-      [
-        "-1.4332018835391565",
-        "53.42442643769367"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Shiregreen & Brightside",
+      "distance": 4.4
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.493427",
-        "53.441231"
+        -1.493427,
+        53.441231
       ]
     }
   },
@@ -770,13 +605,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "West Ecclesfield"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4981537",
-        "53.437431"
+        -1.4981537,
+        53.437431
       ]
     }
   },
@@ -784,13 +620,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#b09"
+      "colour": "#b09",
+      "representing": "East Ecclesfield"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4801008",
-        "53.44147"
+        -1.4801008,
+        53.44147
       ]
     }
   },
@@ -798,13 +635,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#b09"
+      "colour": "#b09",
+      "representing": "Stocksbridge & Upper Don"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5982721",
-        "53.482104"
+        -1.5982721,
+        53.482104
       ]
     }
   },
@@ -812,13 +650,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Stocksbridge & Upper Don"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5995281",
-        "53.481542"
+        -1.5995281,
+        53.481542
       ]
     }
   },
@@ -826,40 +665,30 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#b09"
+      "colour": "#b09",
+      "representing": "Stocksbridge & Upper Don"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5673671",
-        "53.474572"
+        -1.5673671,
+        53.474572
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.5726519",
-        "53.471913"
-      ],
-      [
-        "-1.460273420167956",
-        "53.41935786902889"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Firth Park",
+      "distance": 9.5
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5726519",
-        "53.471913"
+        -1.5726519,
+        53.471913
       ]
     }
   },
@@ -867,13 +696,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Burngreave"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4529254",
-        "53.402913"
+        -1.4529254,
+        53.402913
       ]
     }
   },
@@ -881,229 +711,142 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Burngreave"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.460765",
-        "53.401466"
+        -1.460765,
+        53.401466
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4617729",
-        "53.401453"
-      ],
-      [
-        "-1.460273420167956",
-        "53.41935786902889"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Firth Park",
+      "distance": 2.0
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4617729",
-        "53.401453"
+        -1.4617729,
+        53.401453
       ]
     }
   },
   {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4502263",
-        "53.399935"
-      ],
-      [
-        "-1.4954161360426392",
-        "53.3751304408495"
-      ]
-    ]
-  },
-  {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Broomhill & Sharrow Vale",
+      "distance": 4.1
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4502263",
-        "53.399935"
+        -1.4502263,
+        53.399935
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4444542",
-        "53.406623"
-      ],
-      [
-        "-1.5220085161918537",
-        "53.382336557890454"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Crookes & Crosspool",
+      "distance": 5.8
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4444542",
-        "53.406623"
+        -1.4444542,
+        53.406623
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4492747",
-        "53.420065"
-      ],
-      [
-        "-1.4347554568115473",
-        "53.374022121084835"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Manor Castle",
+      "distance": 5.2
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4492747",
-        "53.420065"
+        -1.4492747,
+        53.420065
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.459794",
-        "53.404509"
-      ],
-      [
-        "-1.460273420167956",
-        "53.41935786902889"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Firth Park",
+      "distance": 1.7
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.459794",
-        "53.404509"
+        -1.459794,
+        53.404509
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4665685",
-        "53.417276"
-      ],
-      [
-        "-1.4903436615333898",
-        "53.425241986338044"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Southey",
+      "distance": 1.8
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4665685",
-        "53.417276"
+        -1.4665685,
+        53.417276
       ]
     }
   },
   {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4572709",
-        "53.423122"
-      ],
-      [
-        "-1.4332018835391565",
-        "53.42442643769367"
-      ]
-    ]
-  },
-  {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Shiregreen & Brightside",
+      "distance": 1.6
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4572709",
-        "53.423122"
+        -1.4572709,
+        53.423122
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4649906",
-        "53.435111"
-      ],
-      [
-        "-1.404506456931545",
-        "53.36097342815871"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Richmond",
+      "distance": 9.2
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4649906",
-        "53.435111"
+        -1.4649906,
+        53.435111
       ]
     }
   },
@@ -1111,94 +854,62 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Southey"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4991729",
-        "53.427556"
+        -1.4991729,
+        53.427556
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.5230457",
-        "53.417776"
-      ],
-      [
-        "-1.4621267444988166",
-        "53.45174209573749"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "East Ecclesfield",
+      "distance": 5.5
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5230457",
-        "53.417776"
+        -1.5230457,
+        53.417776
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4987618",
-        "53.393389"
-      ],
-      [
-        "-1.504268647198314",
-        "53.408194588776006"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Hillsborough",
+      "distance": 1.7
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4987618",
-        "53.393389"
+        -1.4987618,
+        53.393389
       ]
     }
   },
   {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4911062",
-        "53.390992"
-      ],
-      [
-        "-1.455333943495635",
-        "53.35081114600379"
-      ]
-    ]
-  },
-  {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Gleadless Valley",
+      "distance": 5.1
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4911062",
-        "53.390992"
+        -1.4911062,
+        53.390992
       ]
     }
   },
@@ -1206,13 +917,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Walkley"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4911062",
-        "53.390992"
+        -1.4911062,
+        53.390992
       ]
     }
   },
@@ -1220,40 +932,30 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Walkley"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4911062",
-        "53.390992"
+        -1.4911062,
+        53.390992
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.5022038",
-        "53.392235"
-      ],
-      [
-        "-1.4903436615333898",
-        "53.425241986338044"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Southey",
+      "distance": 3.8
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5022038",
-        "53.392235"
+        -1.5022038,
+        53.392235
       ]
     }
   },
@@ -1261,67 +963,46 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Hillsborough"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5130301",
-        "53.416"
+        -1.5130301,
+        53.416
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.5068105",
-        "53.40349"
-      ],
-      [
-        "-1.497235256128494",
-        "53.39211694416285"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Walkley",
+      "distance": 1.4
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5068105",
-        "53.40349"
+        -1.5068105,
+        53.40349
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.5096379",
-        "53.404832"
-      ],
-      [
-        "-1.4603472594240212",
-        "53.40222332289696"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Burngreave",
+      "distance": 3.3
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5096379",
-        "53.404832"
+        -1.5096379,
+        53.404832
       ]
     }
   },
@@ -1329,13 +1010,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Stannington"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5189559",
-        "53.394847"
+        -1.5189559,
+        53.394847
       ]
     }
   },
@@ -1343,94 +1025,62 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Stannington"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5189559",
-        "53.394847"
+        -1.5189559,
+        53.394847
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.5340737",
-        "53.404075"
-      ],
-      [
-        "-1.4443552627796723",
-        "53.36065409058276"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Park & Arbourthorne",
+      "distance": 7.7
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5340737",
-        "53.404075"
+        -1.5340737,
+        53.404075
       ]
     }
   },
   {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.5357674",
-        "53.40739"
-      ],
-      [
-        "-1.504268647198314",
-        "53.408194588776006"
-      ]
-    ]
-  },
-  {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Hillsborough",
+      "distance": 2.1
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5357674",
-        "53.40739"
+        -1.5357674,
+        53.40739
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4865432",
-        "53.360303"
-      ],
-      [
-        "-1.455333943495635",
-        "53.35081114600379"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Gleadless Valley",
+      "distance": 2.3
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4865432",
-        "53.360303"
+        -1.4865432,
+        53.360303
       ]
     }
   },
@@ -1438,40 +1088,30 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Nether Edge & Sharrow"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4901691",
-        "53.354872"
+        -1.4901691,
+        53.354872
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.5084989",
-        "53.345681"
-      ],
-      [
-        "-1.4888241222393805",
-        "53.328554387863655"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Beauchief & Greenhill",
+      "distance": 2.3
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5084989",
-        "53.345681"
+        -1.5084989,
+        53.345681
       ]
     }
   },
@@ -1479,40 +1119,30 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Beauchief & Greenhill"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5122581",
-        "53.334793"
+        -1.5122581,
+        53.334793
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.483709",
-        "53.341172"
-      ],
-      [
-        "-1.4699073342496356",
-        "53.380305167996994"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#086"
+      "colour": "#086",
+      "representing": "City",
+      "distance": 4.4
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.483709",
-        "53.341172"
+        -1.483709,
+        53.341172
       ]
     }
   },
@@ -1520,13 +1150,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Graves Park"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4603769",
-        "53.334606"
+        -1.4603769,
+        53.334606
       ]
     }
   },
@@ -1534,13 +1165,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Graves Park"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4603769",
-        "53.334606"
+        -1.4603769,
+        53.334606
       ]
     }
   },
@@ -1548,121 +1180,78 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Gleadless Valley"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4688888",
-        "53.355381"
+        -1.4688888,
+        53.355381
       ]
     }
   },
   {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4641127",
-        "53.357643"
-      ],
-      [
-        "-1.4888241222393805",
-        "53.328554387863655"
-      ]
-    ]
-  },
-  {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Beauchief & Greenhill",
+      "distance": 3.6
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4641127",
-        "53.357643"
+        -1.4641127,
+        53.357643
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4310343",
-        "53.411296"
-      ],
-      [
-        "-1.4061324864063534",
-        "53.34463527349907"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Birley",
+      "distance": 7.6
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4310343",
-        "53.411296"
+        -1.4310343,
+        53.411296
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.4310343",
-        "53.411296"
-      ],
-      [
-        "-1.4347554568115473",
-        "53.374022121084835"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Manor Castle",
+      "distance": 4.2
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4310343",
-        "53.411296"
+        -1.4310343,
+        53.411296
       ]
     }
-  },
-  {
-    "type": "LineString",
-    "coordinates": [
-      [
-        "-1.3980249",
-        "53.413634"
-      ],
-      [
-        "-1.513939214817742",
-        "53.3514019170402"
-      ]
-    ]
   },
   {
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#fb3"
+      "colour": "#fb3",
+      "representing": "Ecclesall",
+      "distance": 10.3
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3980249",
-        "53.413634"
+        -1.3980249,
+        53.413634
       ]
     }
   },
@@ -1670,13 +1259,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Darnall"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3999758",
-        "53.413985"
+        -1.3999758,
+        53.413985
       ]
     }
   },
@@ -1684,13 +1274,14 @@
     "type": "Feature",
     "properties": {
       "type": "home",
-      "colour": "#d00"
+      "colour": "#d00",
+      "representing": "Darnall"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4187174",
-        "53.386707"
+        -1.4187174,
+        53.386707
       ]
     }
   },
@@ -1703,8 +1294,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4443552627796723",
-        "53.36065409058276"
+        -1.4443552627796723,
+        53.36065409058276
       ]
     }
   },
@@ -1717,8 +1308,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4954161360426392",
-        "53.3751304408495"
+        -1.4954161360426392,
+        53.3751304408495
       ]
     }
   },
@@ -1731,8 +1322,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5220085161918537",
-        "53.382336557890454"
+        -1.5220085161918537,
+        53.382336557890454
       ]
     }
   },
@@ -1745,8 +1336,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5848717113526678",
-        "53.36541809864707"
+        -1.5848717113526678,
+        53.36541809864707
       ]
     }
   },
@@ -1759,8 +1350,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.5627496673575711",
-        "53.329409837115264"
+        -1.5627496673575711,
+        53.329409837115264
       ]
     }
   },
@@ -1773,8 +1364,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.513939214817742",
-        "53.3514019170402"
+        -1.513939214817742,
+        53.3514019170402
       ]
     }
   },
@@ -1787,8 +1378,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4866458473666675",
-        "53.36233359505128"
+        -1.4866458473666675,
+        53.36233359505128
       ]
     }
   },
@@ -1801,8 +1392,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.404506456931545",
-        "53.36097342815871"
+        -1.404506456931545,
+        53.36097342815871
       ]
     }
   },
@@ -1815,8 +1406,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4061324864063534",
-        "53.34463527349907"
+        -1.4061324864063534,
+        53.34463527349907
       ]
     }
   },
@@ -1829,8 +1420,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.3719977590776764",
-        "53.36408410739049"
+        -1.3719977590776764,
+        53.36408410739049
       ]
     }
   },
@@ -1843,8 +1434,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.355733694345492",
-        "53.3435668216603"
+        -1.355733694345492,
+        53.3435668216603
       ]
     }
   },
@@ -1857,8 +1448,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.358995659877262",
-        "53.32794076995907"
+        -1.358995659877262,
+        53.32794076995907
       ]
     }
   },
@@ -1871,8 +1462,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.410098487749069",
-        "53.39727219313776"
+        -1.410098487749069,
+        53.39727219313776
       ]
     }
   },
@@ -1885,8 +1476,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4347554568115473",
-        "53.374022121084835"
+        -1.4347554568115473,
+        53.374022121084835
       ]
     }
   },
@@ -1899,8 +1490,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4693593130278797",
-        "53.340573295696444"
+        -1.4693593130278797,
+        53.340573295696444
       ]
     }
   },
@@ -1913,8 +1504,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4332018835391565",
-        "53.42442643769367"
+        -1.4332018835391565,
+        53.42442643769367
       ]
     }
   },
@@ -1927,8 +1518,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4699073342496356",
-        "53.380305167996994"
+        -1.4699073342496356,
+        53.380305167996994
       ]
     }
   },
@@ -1941,8 +1532,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.6113962967246185",
-        "53.41036038785617"
+        -1.6113962967246185,
+        53.41036038785617
       ]
     }
   },
@@ -1955,8 +1546,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4621267444988166",
-        "53.45174209573749"
+        -1.4621267444988166,
+        53.45174209573749
       ]
     }
   },
@@ -1969,8 +1560,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.495020444590787",
-        "53.45728704664914"
+        -1.495020444590787,
+        53.45728704664914
       ]
     }
   },
@@ -1983,8 +1574,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.6552042785528542",
-        "53.462795237021346"
+        -1.6552042785528542,
+        53.462795237021346
       ]
     }
   },
@@ -1997,8 +1588,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.460273420167956",
-        "53.41935786902889"
+        -1.460273420167956,
+        53.41935786902889
       ]
     }
   },
@@ -2011,8 +1602,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4603472594240212",
-        "53.40222332289696"
+        -1.4603472594240212,
+        53.40222332289696
       ]
     }
   },
@@ -2025,8 +1616,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4903436615333898",
-        "53.425241986338044"
+        -1.4903436615333898,
+        53.425241986338044
       ]
     }
   },
@@ -2039,8 +1630,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.504268647198314",
-        "53.408194588776006"
+        -1.504268647198314,
+        53.408194588776006
       ]
     }
   },
@@ -2053,8 +1644,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.455333943495635",
-        "53.35081114600379"
+        -1.455333943495635,
+        53.35081114600379
       ]
     }
   },
@@ -2067,8 +1658,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.497235256128494",
-        "53.39211694416285"
+        -1.497235256128494,
+        53.39211694416285
       ]
     }
   },
@@ -2081,8 +1672,8 @@
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "-1.4888241222393805",
-        "53.328554387863655"
+        -1.4888241222393805,
+        53.328554387863655
       ]
     }
   }
