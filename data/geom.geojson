@@ -1073,6 +1073,21 @@
     "properties": {
       "type": "home",
       "colour": "#d00",
+      "representing": "Nether Edge & Sharrow"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.477906,
+        53.366226
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
       "representing": "Gleadless Valley",
       "distance": 2.3
     },
