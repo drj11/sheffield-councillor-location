@@ -5,10 +5,16 @@ import math
 import sys
 
 
+# Earth radius
+earthR = 6371
+
+
 def main():
     geojson = []
 
     wards = {}
+
+    point_used = {}
 
     with open("data/joined") as f:
         for row in f:
@@ -16,8 +22,8 @@ def main():
             home_ward = cells[13]
             electoral_ward = cells[1]
             i = 9
-            electoral_point = [float(cells[i+3]), float(cells[i+2])]
-            home_point = [float(cells[i+1]), float(cells[i])]
+            electoral_point = (float(cells[i+3]), float(cells[i+2]))
+            home_point = (float(cells[i+1]), float(cells[i]))
 
             if home_ward != electoral_ward and False:
                 geojson.append(dict(
@@ -34,6 +40,19 @@ def main():
             if home_ward != electoral_ward:
                 properties['distance'] = round(
                   distance(home_point, electoral_point), 1)
+
+            n = point_used.get(home_point, 0)
+            point_used[home_point] = n+1
+            if n:
+              # Adjust point so that pins are slightly separated
+              d = 0.05
+              dRadian = d/earthR
+              dLat = math.degrees(dRadian)
+              dLong = dLat / math.cos(math.radians(home_point[1]))
+
+              dLong *= math.cos(n)
+              dLat *= math.sin(n)
+              home_point = (home_point[0]+dLong, home_point[1]+dLat)
 
             geojson.append(dict(
               type="Feature",
@@ -76,9 +95,6 @@ def distance(p, q):
     are on Earth's surface, given in (long, lat).
     """
 
-    # Earth radius
-    R = 6371
-
     def sin(d):
         return math.sin(math.radians(d))
 
@@ -99,7 +115,7 @@ def distance(p, q):
     dz = qz - pz
     # chord length
     C = (dx**2 + dy**2 + dz**2)**0.5
-    C *= R
+    C *= earthR
     return C
 
 
