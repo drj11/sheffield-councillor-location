@@ -37,6 +37,8 @@ Ward boundaries are from MapIt, https://mapit.mysociety.org/ .
 Manual step: Postcodes are converted to latitude/longitude using
 https://gridreferencefinder.com/postcodeBatchConverter/ .
 
+1 postcode was not found, I looked it up using Google Maps.
+
 ## Data correction
 
 Data has not been extensively qualified or assured.
@@ -47,3 +49,8 @@ Noted and corrected data errors:
 lists their postcode as `S35 8GN`,
 but that does not seem to be a valid postcode;
 corrected to `S35 8NG`.
+
+1 candidate for Graves Park ward
+list their postcode as `S8 9SE`,
+but the valid postcode appears to be
+`S8 8SE`.
