@@ -3,7 +3,7 @@
 # Join
 # data/map-postcode-latlon.tsv
 # data/map-ward-latlon.tsv
-# data/subject.tsv
+# and the first file argument, which is often data/subject.tsv
 # to compute distance from a subject's postcode to the ward.
 
 import math
@@ -28,11 +28,18 @@ def ward_latlon():
              d[cells[0]] = list(map(float, cells[1:3]))
      return d
 
-def main():
+def main(argv=None):
+    if argv is None:
+        argv = sys.argv
+
+    args = argv[1:]
+    if len(args) < 1:
+        raise Exception("file argument is required")
+    subjects = open(args[0])
+
     pc_ll = postcode_latlon()
     ward_ll = ward_latlon()
 
-    subjects = open('data/subject.tsv')
     with open('data/map-subject-distance.tsv', 'w') as out:
         for subject in subjects:
             cells = subject.strip().split('\t')
