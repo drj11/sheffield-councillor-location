@@ -44,10 +44,10 @@ def main(argv=None):
         for subject in subjects:
             cells = subject.strip().split('\t')
 
-            home = cells[4]
+            home = cells[3]
             ward = cells[0]
-            team = cells[1]
-            name = cells[2]
+            team = cells[4]
+            name = cells[1]
 
             ward_point = ward_ll[ward]
             home_point = pc_ll[home]

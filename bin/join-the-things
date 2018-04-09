@@ -1,8 +1,8 @@
 #!/bin/sh
 LC_ALL=C export LC_ALL
 Subject=${1:-"data/subject.tsv"}
-sort -t'	' -k 5 "${Subject}" |
-  join -t'	' -1 5 - data/map-postcode-latlon.tsv  |
+sort -t'	' -k 4 "${Subject}" |
+  join -t'	' -1 4 - data/map-postcode-latlon.tsv  |
   sort -t'	' -k 2 |
   join -t'	' -1 2 - data/map-ward-latlon.tsv |
   sort -t'	' -k 2 |

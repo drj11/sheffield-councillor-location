@@ -31,7 +31,8 @@ def main():
                   coordinates=[home_point, electoral_point]
                 ))
 
-            colour = team_colour(cells[2])
+            team = cells[4]
+            colour = team_colour(team)
 
             properties = dict(type="home",
                 colour=colour,
