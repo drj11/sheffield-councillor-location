@@ -51,7 +51,7 @@ def main():
 
 def distance(p, q):
     """Distance between p and q, where p and q
-    are on Earth's surface, given in (latitude, longtude).
+    are on Earth's surface, given in (latitude, longitude).
     """
 
     # Earth radius
