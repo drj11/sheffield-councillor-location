@@ -1,5 +1,5 @@
 data/geom.geojson: data/joined bin/geojson.py
-	bin/geojson.py
+	bin/geojson.py data/joined
 
 2018-data/joined: bin/join-the-things 2018-data/subject.tsv data/map-postcode-latlon.tsv data/map-postcode-ward.tsv data/map-ward-latlon.tsv
 	bin/join-the-things 2018-data/subject.tsv > 2018-data/joined

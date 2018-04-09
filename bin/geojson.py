@@ -2,6 +2,7 @@
 
 import json
 import math
+import os
 import sys
 
 
@@ -9,14 +10,25 @@ import sys
 earthR = 6371
 
 
-def main():
+def main(argv=None):
+    if argv is None:
+        argv = sys.argv
+
+
+    args = argv[1:]
+    if len(args) != 1:
+        raise Exception("one input file is required")
+
+    inp = args[0]
+    outname = os.path.join(os.path.dirname(inp), "geom.geojson")
+
     geojson = []
 
     wards = {}
 
     point_used = {}
 
-    with open("data/joined") as f:
+    with open(inp) as f:
         for row in f:
             cells = row.strip().split('\t')
             home_ward = cells[13]
@@ -76,7 +88,7 @@ def main():
     for ward, feature in wards.items():
         geojson.append(feature)
 
-    with open("data/geom.geojson", 'w') as out:
+    with open(outname, 'w') as out:
         json.dump(geojson, out, indent=2)
 
 
