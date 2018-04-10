@@ -93,6 +93,7 @@ def main(argv=None):
 
 
 def team_colour(party):
+    # Colours from http://blog.richardallen.co.uk/uk-political-party-web-colours/
     if "Green" in party:
         return '#086'
     if "Labour" in party:
@@ -101,6 +102,10 @@ def team_colour(party):
         return '#b09'
     if "Liberal" in party:
         return '#fb3'
+    if "Conservative" in party:
+        return '#08d'
+    if "Independent" in party:
+        return '#eee'
 
 
 def distance(p, q):
