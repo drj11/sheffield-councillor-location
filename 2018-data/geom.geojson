@@ -1,0 +1,2418 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Graves Park",
+      "distance": 4.6
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4693203,
+        53.382331
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Crookes & Crosspool",
+      "distance": 3.1
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4746074,
+        53.382723
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "East Ecclesfield",
+      "distance": 8.6
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4672372,
+        53.374574
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Woodhouse",
+      "distance": 8.5
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4956812,
+        53.384306
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Nether Edge & Sharrow",
+      "distance": 2.6
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.496098,
+        53.384659
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Hillsborough",
+      "distance": 2.6
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4984216,
+        53.385226
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Broomhill & Sharrow Vale",
+      "distance": 1.1
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4980142562903302,
+        53.3856043765187
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Shiregreen & Brightside",
+      "distance": 6.6
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5054384,
+        53.383017
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Gleadless Valley",
+      "distance": 5.0
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4990325,
+        53.386981
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Manor Castle",
+      "distance": 4.9
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5044896,
+        53.389637
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Southey",
+      "distance": 5.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4983651,
+        53.37852
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Firth Park",
+      "distance": 5.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4979578204389676,
+        53.3788983765187
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Crookes & Crosspool",
+      "distance": 1.7
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.497361,
+        53.37954
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Fulwood"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5437381,
+        53.365345
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Fulwood"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5485222,
+        53.37196
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Dore & Totley",
+      "distance": 6.5
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5164642,
+        53.381165
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Fulwood",
+      "distance": 3.1
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5419312,
+        53.376897
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Ecclesall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5097922,
+        53.361273
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Broomhill & Sharrow Vale",
+      "distance": 2.4
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5238237,
+        53.361546
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Ecclesall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5195316,
+        53.357052
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Ecclesall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5301965,
+        53.355926
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Birley",
+      "distance": 6.0
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.485151,
+        53.3715
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#b09",
+      "representing": "Nether Edge & Sharrow",
+      "distance": 1.1
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5022098,
+        53.365934
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Burngreave",
+      "distance": 4.6
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4971039,
+        53.366901
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": null,
+      "representing": "Ecclesall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5192387,
+        53.349698
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Dore & Totley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5227433,
+        53.342575
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Park & Arbourthorne",
+      "distance": 5.6
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5223363638446337,
+        53.34295337651869
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Richmond",
+      "distance": 8.1
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5253498,
+        53.349965
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Beighton",
+      "distance": 3.7
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.408046,
+        53.354987
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Richmond"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4126624,
+        53.353608
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": null,
+      "representing": "Park & Arbourthorne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4284717,
+        53.34653
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Beighton",
+      "distance": 4.4
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4219613,
+        53.340323
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Mosborough",
+      "distance": 1.8
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3664809,
+        53.343385
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Birley",
+      "distance": 2.1
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3746328,
+        53.344687
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Birley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4057385,
+        53.346976
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#b09",
+      "representing": "East Ecclesfield",
+      "distance": 10.0
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3914232,
+        53.372297
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Woodhouse"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3897116,
+        53.373223
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Woodhouse"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3806724,
+        53.369473
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#b09",
+      "representing": "Gleadless Valley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4481801,
+        53.341822
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": null,
+      "representing": "Walkley",
+      "distance": 4.8
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4560313,
+        53.356303
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Fulwood",
+      "distance": 5.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5413396,
+        53.326981
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Broomhill & Sharrow Vale",
+      "distance": 6.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5409328125943156,
+        53.3273593765187
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Birley",
+      "distance": 9.5
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5433931,
+        53.321676
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Dore & Totley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5134612,
+        53.318798
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Dore & Totley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5054476,
+        53.319889
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Nether Edge & Sharrow",
+      "distance": 5.1
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4104834,
+        53.369984
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Manor Castle"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4380427,
+        53.366908
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": null,
+      "representing": "Manor Castle"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4277688,
+        53.374355
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Park & Arbourthorne",
+      "distance": 1.4
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4650001,
+        53.362375
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Graves Park",
+      "distance": 3.5
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4573487,
+        53.37088
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": null,
+      "representing": "Manor Castle"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4520762,
+        53.37651
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Beighton",
+      "distance": 2.0
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3618015,
+        53.325814
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#b09",
+      "representing": "Mosborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3774321,
+        53.331928
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Beighton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3778295,
+        53.341773
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Mosborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3577928,
+        53.335815
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Mosborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3532571,
+        53.329885
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": null,
+      "representing": "Walkley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4822749,
+        53.383943
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Manor Castle",
+      "distance": 3.3
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4826104,
+        53.383549
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Broomhill & Sharrow Vale"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4813741,
+        53.377647
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Manor Castle",
+      "distance": 3.7
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4669945,
+        53.401251
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Stannington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5403268,
+        53.426796
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#b09",
+      "representing": "Stocksbridge & Upper Don"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5431263,
+        53.435184
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#b09",
+      "representing": "Hillsborough",
+      "distance": 4.0
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.542718477586499,
+        53.435562376518696
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "West Ecclesfield",
+      "distance": 3.6
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5376941,
+        53.437806
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Stocksbridge & Upper Don"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5323346,
+        53.430999
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Stocksbridge & Upper Don"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5391519,
+        53.432454
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Stocksbridge & Upper Don"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5329557,
+        53.434749
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Stannington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5216044,
+        53.421518
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "East Ecclesfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4656818,
+        53.465217
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#b09",
+      "representing": "Shiregreen & Brightside",
+      "distance": 5.7
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4899258,
+        53.463319
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "West Ecclesfield",
+      "distance": 2.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4712341,
+        53.470545
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#eee",
+      "representing": "West Ecclesfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4787354,
+        53.469401
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "West Ecclesfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4873419,
+        53.442733
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Shiregreen & Brightside",
+      "distance": 3.7
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4852428,
+        53.435794
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Crookes & Crosspool",
+      "distance": 7.6
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4689517,
+        53.443381
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "East Ecclesfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4630487,
+        53.445871
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "East Ecclesfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4579567,
+        53.435457
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": null,
+      "representing": "Stocksbridge & Upper Don"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.6157198,
+        53.487339
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#b09",
+      "representing": "Beighton",
+      "distance": 20.5
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5741276,
+        53.473482
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Burngreave"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.454658,
+        53.40151
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Burngreave"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4509623,
+        53.398842
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Stannington",
+      "distance": 11.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4458706,
+        53.428436
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Firth Park",
+      "distance": 1.7
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.459794,
+        53.404509
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#b09",
+      "representing": "Southey",
+      "distance": 2.3
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4655125,
+        53.410296
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Woodhouse",
+      "distance": 8.7
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4720083,
+        53.414181
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Firth Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4751564,
+        53.427327
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Richmond",
+      "distance": 9.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4649906,
+        53.435111
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Southey"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4977725,
+        53.422508
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Hillsborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5089478,
+        53.411202
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Stocksbridge & Upper Don",
+      "distance": 13.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.493355,
+        53.394094
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": null,
+      "representing": "Walkley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4989642,
+        53.392805
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Richmond",
+      "distance": 6.5
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4924284,
+        53.386018
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Walkley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4911062,
+        53.390992
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Walkley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4914603,
+        53.390302
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Walkley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.497849,
+        53.391731
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Southey",
+      "distance": 3.8
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5022038,
+        53.392235
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Nether Edge & Sharrow",
+      "distance": 3.6
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5029772,
+        53.392975
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Hillsborough",
+      "distance": 1.7
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5032763,
+        53.393111
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Southey",
+      "distance": 2.5
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5175369,
+        53.40996
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Burngreave",
+      "distance": 4.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.523535,
+        53.407647
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Walkley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5103628,
+        53.392781
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Shiregreen & Brightside",
+      "distance": 6.3
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5121326,
+        53.393183
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": null,
+      "representing": "Southey",
+      "distance": 3.8
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5164954,
+        53.394343
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Stannington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5407607,
+        53.40607
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Park & Arbourthorne",
+      "distance": 7.7
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5340737,
+        53.404075
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Hillsborough",
+      "distance": 2.1
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5357674,
+        53.40739
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Gleadless Valley",
+      "distance": 2.3
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4865432,
+        53.360303
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Shiregreen & Brightside",
+      "distance": 7.3
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4826843,
+        53.366282
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Crookes & Crosspool",
+      "distance": 3.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4921784,
+        53.360265
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Nether Edge & Sharrow"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4921817,
+        53.358719
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": null,
+      "representing": "Hillsborough",
+      "distance": 6.0
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4901691,
+        53.354872
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Firth Park",
+      "distance": 8.3
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4989879,
+        53.348491
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Beauchief & Greenhill",
+      "distance": 2.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5011379,
+        53.347044
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Darnall",
+      "distance": 7.4
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4884569,
+        53.349804
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Graves Park",
+      "distance": 2.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4917239,
+        53.326456
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Park & Arbourthorne",
+      "distance": 5.2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4960423,
+        53.325656
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Beauchief & Greenhill"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4931348,
+        53.329024
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#eee",
+      "representing": "Birley",
+      "distance": 6.0
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4860318,
+        53.320355
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Beauchief & Greenhill"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4796265,
+        53.331069
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Graves Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4672138,
+        53.340291
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": null,
+      "representing": "Graves Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4727936,
+        53.345754
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Mosborough",
+      "distance": 7.7
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4677828,
+        53.3525
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": null,
+      "representing": "Gleadless Valley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4644479,
+        53.352476
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Gleadless Valley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4640408693278075,
+        53.3528543765187
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Beauchief & Greenhill",
+      "distance": 3.4
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.465774,
+        53.355763
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Gleadless Valley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4740198,
+        53.358415
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "West Ecclesfield",
+      "distance": 6.6
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4271289,
+        53.414208
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "Ecclesall",
+      "distance": 10.3
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3980249,
+        53.413634
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#d00",
+      "representing": "Darnall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3999758,
+        53.413985
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "Darnall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4187174,
+        53.386707
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
+      "representing": "Darnall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4118276,
+        53.392426
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Graves Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4693593130278797,
+        53.340573295696444
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Crookes & Crosspool"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5220085161918537,
+        53.382336557890454
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "East Ecclesfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4621267444988166,
+        53.45174209573749
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Woodhouse"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.3719977590776764,
+        53.36408410739049
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Nether Edge & Sharrow"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4866458473666675,
+        53.36233359505128
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Hillsborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.504268647198314,
+        53.408194588776006
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Broomhill & Sharrow Vale"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4954161360426392,
+        53.3751304408495
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Shiregreen & Brightside"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4332018835391565,
+        53.42442643769367
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Gleadless Valley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.455333943495635,
+        53.35081114600379
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Manor Castle"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4347554568115473,
+        53.374022121084835
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Southey"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4903436615333898,
+        53.425241986338044
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Firth Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.460273420167956,
+        53.41935786902889
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Fulwood"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5848717113526678,
+        53.36541809864707
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Dore & Totley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5627496673575711,
+        53.329409837115264
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Ecclesall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.513939214817742,
+        53.3514019170402
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Birley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4061324864063534,
+        53.34463527349907
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Burngreave"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4603472594240212,
+        53.40222332289696
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Park & Arbourthorne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4443552627796723,
+        53.36065409058276
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Richmond"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.404506456931545,
+        53.36097342815871
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Beighton"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.355733694345492,
+        53.3435668216603
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Mosborough"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.358995659877262,
+        53.32794076995907
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Walkley"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.497235256128494,
+        53.39211694416285
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Stannington"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.6113962967246185,
+        53.41036038785617
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Stocksbridge & Upper Don"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.6552042785528542,
+        53.462795237021346
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "West Ecclesfield"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.495020444590787,
+        53.45728704664914
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Beauchief & Greenhill"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4888241222393805,
+        53.328554387863655
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "Darnall"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.410098487749069,
+        53.39727219313776
+      ]
+    }
+  }
+]
