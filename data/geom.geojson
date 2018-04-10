@@ -5,7 +5,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Park & Arbourthorne",
-      "distance": 2.4
+      "distance": 0.5
     },
     "geometry": {
       "type": "Point",
@@ -126,7 +126,7 @@
       "type": "home",
       "colour": "#fb3",
       "representing": "Dore & Totley",
-      "distance": 5.1
+      "distance": 1.9
     },
     "geometry": {
       "type": "Point",
@@ -142,7 +142,7 @@
       "type": "home",
       "colour": "#fb3",
       "representing": "Ecclesall",
-      "distance": 2.0
+      "distance": 0.0
     },
     "geometry": {
       "type": "Point",
@@ -158,7 +158,7 @@
       "type": "home",
       "colour": "#086",
       "representing": "Nether Edge & Sharrow",
-      "distance": 0.6
+      "distance": 0.1
     },
     "geometry": {
       "type": "Point",
@@ -189,7 +189,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Richmond",
-      "distance": 2.3
+      "distance": 0.4
     },
     "geometry": {
       "type": "Point",
@@ -205,7 +205,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Birley",
-      "distance": 2.1
+      "distance": 0.2
     },
     "geometry": {
       "type": "Point",
@@ -221,7 +221,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Richmond",
-      "distance": 3.0
+      "distance": 1.7
     },
     "geometry": {
       "type": "Point",
@@ -267,7 +267,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Beighton",
-      "distance": 2.1
+      "distance": 1.2
     },
     "geometry": {
       "type": "Point",
@@ -283,7 +283,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Mosborough",
-      "distance": 4.0
+      "distance": 2.3
     },
     "geometry": {
       "type": "Point",
@@ -299,7 +299,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Park & Arbourthorne",
-      "distance": 3.7
+      "distance": 2.8
     },
     "geometry": {
       "type": "Point",
@@ -315,7 +315,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Woodhouse",
-      "distance": 1.3
+      "distance": 0.2
     },
     "geometry": {
       "type": "Point",
@@ -331,7 +331,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Darnall",
-      "distance": 3.3
+      "distance": 1.1
     },
     "geometry": {
       "type": "Point",
@@ -407,7 +407,7 @@
       "type": "home",
       "colour": "#fb3",
       "representing": "Graves Park",
-      "distance": 3.5
+      "distance": 2.2
     },
     "geometry": {
       "type": "Point",
@@ -423,7 +423,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Shiregreen & Brightside",
-      "distance": 4.9
+      "distance": 3.0
     },
     "geometry": {
       "type": "Point",
@@ -454,7 +454,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Beighton",
-      "distance": 2.0
+      "distance": 1.0
     },
     "geometry": {
       "type": "Point",
@@ -575,7 +575,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "West Ecclesfield",
-      "distance": 2.2
+      "distance": 0.1
     },
     "geometry": {
       "type": "Point",
@@ -591,7 +591,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Shiregreen & Brightside",
-      "distance": 4.4
+      "distance": 2.6
     },
     "geometry": {
       "type": "Point",
@@ -682,7 +682,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Firth Park",
-      "distance": 9.5
+      "distance": 7.9
     },
     "geometry": {
       "type": "Point",
@@ -728,7 +728,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Firth Park",
-      "distance": 2.0
+      "distance": 1.1
     },
     "geometry": {
       "type": "Point",
@@ -744,7 +744,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Broomhill & Sharrow Vale",
-      "distance": 4.1
+      "distance": 3.0
     },
     "geometry": {
       "type": "Point",
@@ -760,7 +760,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Crookes & Crosspool",
-      "distance": 5.8
+      "distance": 4.1
     },
     "geometry": {
       "type": "Point",
@@ -776,7 +776,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Manor Castle",
-      "distance": 5.2
+      "distance": 3.9
     },
     "geometry": {
       "type": "Point",
@@ -792,7 +792,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Firth Park",
-      "distance": 1.7
+      "distance": 0.9
     },
     "geometry": {
       "type": "Point",
@@ -808,7 +808,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Southey",
-      "distance": 1.8
+      "distance": 0.9
     },
     "geometry": {
       "type": "Point",
@@ -824,7 +824,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Shiregreen & Brightside",
-      "distance": 1.6
+      "distance": 0.1
     },
     "geometry": {
       "type": "Point",
@@ -840,7 +840,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Richmond",
-      "distance": 9.2
+      "distance": 8.0
     },
     "geometry": {
       "type": "Point",
@@ -871,7 +871,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "East Ecclesfield",
-      "distance": 5.5
+      "distance": 3.2
     },
     "geometry": {
       "type": "Point",
@@ -887,7 +887,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Hillsborough",
-      "distance": 1.7
+      "distance": 0.7
     },
     "geometry": {
       "type": "Point",
@@ -903,7 +903,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Gleadless Valley",
-      "distance": 5.1
+      "distance": 3.1
     },
     "geometry": {
       "type": "Point",
@@ -949,7 +949,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Southey",
-      "distance": 3.8
+      "distance": 2.2
     },
     "geometry": {
       "type": "Point",
@@ -980,7 +980,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Walkley",
-      "distance": 1.4
+      "distance": 0.3
     },
     "geometry": {
       "type": "Point",
@@ -996,7 +996,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Burngreave",
-      "distance": 3.3
+      "distance": 1.4
     },
     "geometry": {
       "type": "Point",
@@ -1042,7 +1042,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Park & Arbourthorne",
-      "distance": 7.7
+      "distance": 5.8
     },
     "geometry": {
       "type": "Point",
@@ -1058,7 +1058,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Hillsborough",
-      "distance": 2.1
+      "distance": 0.5
     },
     "geometry": {
       "type": "Point",
@@ -1089,7 +1089,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Gleadless Valley",
-      "distance": 2.3
+      "distance": 0.6
     },
     "geometry": {
       "type": "Point",
@@ -1120,7 +1120,7 @@
       "type": "home",
       "colour": "#fb3",
       "representing": "Beauchief & Greenhill",
-      "distance": 2.3
+      "distance": 0.7
     },
     "geometry": {
       "type": "Point",
@@ -1151,7 +1151,7 @@
       "type": "home",
       "colour": "#086",
       "representing": "City",
-      "distance": 4.4
+      "distance": 2.8
     },
     "geometry": {
       "type": "Point",
@@ -1212,7 +1212,7 @@
       "type": "home",
       "colour": "#fb3",
       "representing": "Beauchief & Greenhill",
-      "distance": 3.6
+      "distance": 2.3
     },
     "geometry": {
       "type": "Point",
@@ -1228,7 +1228,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Birley",
-      "distance": 7.6
+      "distance": 6.5
     },
     "geometry": {
       "type": "Point",
@@ -1244,7 +1244,7 @@
       "type": "home",
       "colour": "#d00",
       "representing": "Manor Castle",
-      "distance": 4.2
+      "distance": 3.0
     },
     "geometry": {
       "type": "Point",
@@ -1260,7 +1260,7 @@
       "type": "home",
       "colour": "#fb3",
       "representing": "Ecclesall",
-      "distance": 10.3
+      "distance": 8.6
     },
     "geometry": {
       "type": "Point",

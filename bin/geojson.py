@@ -22,6 +22,12 @@ def main(argv=None):
     inp = args[0]
     outname = os.path.join(os.path.dirname(inp), "geom.geojson")
 
+    distance_name = os.path.join(os.path.dirname(inp), "map-subject-distance.tsv")
+    distance = {}
+    for row in open(distance_name):
+        name, team, d = row.strip().split('\t')
+        distance[name] = float(d)
+
     geojson = []
 
     wards = {}
@@ -36,6 +42,7 @@ def main(argv=None):
             i = 9
             electoral_point = (float(cells[i+3]), float(cells[i+2]))
             home_point = (float(cells[i+1]), float(cells[i]))
+            name = cells[2]
 
             if home_ward != electoral_ward and False:
                 geojson.append(dict(
@@ -51,8 +58,7 @@ def main(argv=None):
                 representing=electoral_ward)
 
             if home_ward != electoral_ward:
-                properties['distance'] = round(
-                  distance(home_point, electoral_point), 1)
+                properties['distance'] = round(distance[name], 1)
 
             n = point_used.get(home_point, 0)
             point_used[home_point] = n+1
@@ -106,35 +112,6 @@ def team_colour(party):
         return '#08d'
     if "Independent" in party:
         return '#eee'
-
-
-def distance(p, q):
-    """Distance between p and q, where p and q
-    are on Earth's surface, given in (long, lat).
-    """
-
-    def sin(d):
-        return math.sin(math.radians(d))
-
-    def cos(d):
-        return math.cos(math.radians(d))
-
-    def xyz(lon, lat):
-        x = cos(lat)*cos(lon)
-        y = cos(lat)*sin(lon)
-        z = sin(lat)
-        return x, y, z
-
-    px, py, pz = xyz(*p)
-    qx, qy, qz = xyz(*q)
-
-    dx = qx - px
-    dy = qy - py
-    dz = qz - pz
-    # chord length
-    C = (dx**2 + dy**2 + dz**2)**0.5
-    C *= earthR
-    return C
 
 
 if __name__ == '__main__':
