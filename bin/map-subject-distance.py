@@ -2,31 +2,43 @@
 #
 # Join
 # data/map-postcode-latlon.tsv
-# data/map-ward-latlon.tsv
+# data/wards.geojson
 # and the first file argument, which is often data/subject.tsv
-# to compute distance from a subject's postcode to the ward.
+# to compute distance from a subject's postcode to
+# the nearest point in the ward.
 
+import itertools
+import json
 import math
+import os
 import sys
 
+WardFile = "data/wards.geojson"
 
-def postcode_latlon():
-     d = dict()
-     with open("data/map-postcode-latlon.tsv") as f:
-         for row in f:
-             if 'Latitude' in row:
-                 continue
-             cells = row.strip().split('\t')
-             d[cells[0]] = list(map(float, cells[5:7]))
-     return d
 
-def ward_latlon():
-     d = dict()
-     with open("data/map-ward-latlon.tsv") as f:
-         for row in f:
-             cells = row.strip().split('\t')
-             d[cells[0]] = list(map(float, cells[1:3]))
-     return d
+def postcode_lonlat():
+    d = dict()
+    with open("data/map-postcode-latlon.tsv") as f:
+        for row in f:
+            if 'Latitude' in row:
+                continue
+            cells = row.strip().split('\t')
+            d[cells[0]] = list(map(float, cells[5:7]))[::-1]
+    return d
+
+
+def geojson_wards():
+    with open(WardFile) as f:
+        g = json.load(f)
+
+    features = g['features']
+    d = {}
+    for feature in features:
+        ward = feature['properties']['name']
+        d[ward] = feature
+
+    return d
+
 
 def main(argv=None):
     if argv is None:
@@ -35,12 +47,16 @@ def main(argv=None):
     args = argv[1:]
     if len(args) < 1:
         raise Exception("file argument is required")
-    subjects = open(args[0])
+    inp_name = args[0]
+    subjects = open(inp_name)
 
-    pc_ll = postcode_latlon()
-    ward_ll = ward_latlon()
+    pc_ll = postcode_lonlat()
+    wards = geojson_wards()
 
-    with open('data/map-subject-distance.tsv', 'w') as out:
+    out_name = os.path.join(
+      os.path.dirname(inp_name), 'map-subject-distance.tsv')
+
+    with open(out_name, 'w') as out:
         for subject in subjects:
             cells = subject.strip().split('\t')
 
@@ -49,16 +65,17 @@ def main(argv=None):
             team = cells[4]
             name = cells[1]
 
-            ward_point = ward_ll[ward]
+            ward_points = coordinates(wards[ward])
+
             home_point = pc_ll[home]
-            range = distance(ward_point, home_point)
+            range = nearest_distance(ward_points, home_point)
 
             print(name, team, range, sep='\t', file=out)
 
 
 def distance(p, q):
     """Distance between p and q, where p and q
-    are on Earth's surface, given in (latitude, longitude).
+    are on Earth's surface, given in (longitude, latitude).
     """
 
     # Earth radius
@@ -70,7 +87,7 @@ def distance(p, q):
     def cos(d):
         return math.cos(math.radians(d))
 
-    def xyz(lat, lon):
+    def xyz(lon, lat):
         x = cos(lat)*cos(lon)
         y = cos(lat)*sin(lon)
         z = sin(lat)
@@ -86,6 +103,21 @@ def distance(p, q):
     C = (dx**2 + dy**2 + dz**2)**0.5
     C *= R
     return C
+
+
+def nearest_distance(points, target):
+    """
+    Return range from target to nearest point in point.
+    All points are given in (longitude, latitude).
+    """
+
+    return min(distance(point, target) for point in points)
+
+
+def coordinates(feature):
+    """Return a flattened list of coordinates for the feature."""
+
+    return list(itertools.chain(*feature['geometry']['coordinates']))
 
 
 if __name__ == '__main__':
