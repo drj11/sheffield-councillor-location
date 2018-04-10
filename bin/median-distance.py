@@ -2,10 +2,11 @@
 
 import itertools
 import math
+import sys
 
 
-def subject_distance():
-    for row in open('data/map-subject-distance.tsv'):
+def subject_distance(name):
+    for row in open(name):
         yield row.strip().split('\t')
 
 
@@ -21,9 +22,18 @@ def sort_and_group(subjects):
         return row[1]
     return itertools.groupby(sorted(subjects, key=team), team)
 
-def main():
-    for team, subjects in sort_and_group(subject_distance()):
-        print(team, median(subjects))
+def main(argv=None):
+    if argv is None:
+        argv = sys.argv
+    
+    args = argv[1:]
+    if len(args) != 1:
+        raise Exception("One file argument should be supplied")
+
+    map_name = args[0]
+
+    for team, subjects in sort_and_group(subject_distance(map_name)):
+        print(median(subjects), team)
 
 
 if __name__ == '__main__':
