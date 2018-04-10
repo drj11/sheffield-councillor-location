@@ -1,3 +1,6 @@
+2018-data/geom.geojson: bin/geojson.py 2018-data/joined 2018-data/map-subject-distance.tsv
+	bin/geojson.py 2018-data/joined
+
 data/geom.geojson: bin/geojson.py data/joined data/map-subject-distance.tsv
 	bin/geojson.py data/joined
 

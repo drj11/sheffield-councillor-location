@@ -84,6 +84,22 @@
     "properties": {
       "type": "home",
       "colour": "#08d",
+      "representing": "City",
+      "distance": 0.9
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4967204,
+        53.385425
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#08d",
       "representing": "Hillsborough",
       "distance": 1.2
     },
@@ -234,6 +250,22 @@
       "coordinates": [
         -1.5485222,
         53.37196
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#fb3",
+      "representing": "City",
+      "distance": 5.5
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.5655519,
+        53.371889
       ]
     }
   },
@@ -916,6 +948,21 @@
       "coordinates": [
         -1.4813741,
         53.377647
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
+      "colour": "#086",
+      "representing": "City"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4671138,
+        53.388083
       ]
     }
   },
@@ -1872,6 +1919,22 @@
     "type": "Feature",
     "properties": {
       "type": "home",
+      "colour": "#d00",
+      "representing": "City",
+      "distance": 2.4
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4656847,
+        53.343673
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "home",
       "colour": null,
       "representing": "Graves Park"
     },
@@ -2104,6 +2167,20 @@
       "coordinates": [
         -1.4866458473666675,
         53.36233359505128
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "type": "ward",
+      "name": "City"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -1.4699073342496356,
+        53.380305167996994
       ]
     }
   },
