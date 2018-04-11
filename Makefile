@@ -1,6 +1,9 @@
 2018-data/geom.geojson: bin/geojson.py 2018-data/joined 2018-data/map-subject-distance.tsv
 	bin/geojson.py 2018-data/joined
 
+2018-data/map-subject-distance.tsv: bin/map-subject-distance.py 2018-data/subject.tsv data/map-postcode-latlon.tsv
+	bin/map-subject-distance.py 2018-data/subject.tsv
+
 data/geom.geojson: bin/geojson.py data/joined data/map-subject-distance.tsv
 	bin/geojson.py data/joined
 
